@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 3000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 3000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1;">
     <g id="Artboard1" transform="matrix(3.67394e-16,6,-6,3.67394e-16,3000,0)">
         <rect x="0" y="0" width="500" height="500" style="fill:none;"/>
-        <g id="auto-EW" transform="matrix(1,1.35585e-31,-1.35585e-31,1,-1.82709,-60.3683)">
+        <g id="Path-start-car-ew1">
+            <g transform="matrix(-0.0833333,-0.144338,0.096225,-0.166667,-0.950195,499.651)">
+                <ellipse cx="109.641" cy="2054.14" rx="14.02" ry="12.142" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.0833333,-0.144338,0.19245,2.1036e-17,0.0661904,499.716)">
+                <rect x="2480.04" y="-156.214" width="3.939" height="55.278" style="fill:white;"/>
+                <rect x="2480.04" y="-156.214" width="3.939" height="55.278" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="Path-to-stop-car-ew1" transform="matrix(0.00335298,-0.160859,0.164731,-0.00335298,-5.98418,489.635)">
+            <path d="M2139.05,1132.45L1740.53,1362.53" style="fill:none;stroke:white;stroke-width:3.09px;"/>
+        </g>
+        <g id="Path-stop-car-ew1">
+            <g transform="matrix(-0.0833333,-0.144338,0.096225,-0.166667,35.7796,563.269)">
+                <ellipse cx="109.641" cy="2054.14" rx="14.02" ry="12.142" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.0833333,-0.144338,0.19245,1.17842e-17,36.796,563.334)">
+                <rect x="2480.04" y="-156.214" width="3.939" height="55.278" style="fill:white;"/>
+                <rect x="2480.04" y="-156.214" width="3.939" height="55.278" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="Path-to-end-car-ew1" transform="matrix(-0.0855649,-0.314869,0.216068,0.0855649,162.645,781.709)">
+            <path d="M2139.05,1132.45L1740.53,1362.53" style="fill:none;stroke:white;stroke-width:3.09px;"/>
+        </g>
+        <g id="Path-end-car-ew1">
+            <g transform="matrix(-0.0833333,-0.144338,0.096225,-0.166667,119.592,708.437)">
+                <ellipse cx="109.641" cy="2054.14" rx="14.02" ry="12.142" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.0833333,-0.144338,0.19245,1.17842e-17,120.786,708.501)">
+                <rect x="2480.04" y="-156.214" width="3.939" height="55.278" style="fill:white;"/>
+                <rect x="2480.04" y="-156.214" width="3.939" height="55.278" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="auto-EW" transform="matrix(1,4.31408e-31,-4.31408e-31,1,-2.4318,-61.2876)">
             <g>
                 <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,-3.57034,506.184)">
                     <path d="M1765.11,1170C1763.92,1157.42 1781.36,1143.27 1785.35,1158.31L1823.75,1136C1822.88,1124.72 1839.76,1108.68 1843.15,1124.89L1851.24,1120.22L1851.24,1105.87L1848.92,1102.64L1839.38,1108.15L1822.55,1107.04L1795.56,1122.62L1777.51,1144.35L1752.79,1163.92L1752.79,1176.05L1765.11,1170Z" style="fill:rgb(76,0,0);"/>
@@ -172,11 +205,11 @@
                         <path d="M2083.81,1886.45C2083.81,1886.33 2083.72,1886.24 2083.6,1886.24L2079.33,1886.24C2079.22,1886.24 2079.12,1886.33 2079.12,1886.45L2079.12,1886.87C2079.12,1886.98 2079.22,1887.08 2079.33,1887.08L2083.6,1887.08C2083.72,1887.08 2083.81,1886.98 2083.81,1886.87L2083.81,1886.45Z" style="fill:rgb(110,110,110);"/>
                     </g>
                 </g>
-                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                    <use xlink:href="#_Image1" x="2168.99" y="1100.42" width="18px" height="15px"/>
+                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                    <use xlink:href="#_Image1" x="2174.5" y="1096.79" width="18px" height="15px"/>
                 </g>
-                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                    <use xlink:href="#_Image2" x="2147.09" y="1108.48" width="20px" height="21px"/>
+                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                    <use xlink:href="#_Image2" x="2152.61" y="1104.85" width="20px" height="21px"/>
                 </g>
                 <g>
                     <g transform="matrix(-0.967026,-1.67494,0.0968185,-0.167695,-32.1689,448.069)">
@@ -192,8 +225,8 @@
                         <path d="M-35.142,1842.06L-36.146,1842.19L-36.146,1879.15L-35.166,1879.15L-35.142,1842.06Z" style="fill:rgb(179,60,60);"/>
                     </g>
                 </g>
-                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                    <use xlink:href="#_Image3" x="2150.1" y="1075.68" width="49px" height="21px"/>
+                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                    <use xlink:href="#_Image3" x="2155.62" y="1072.05" width="49px" height="21px"/>
                 </g>
                 <g>
                     <g transform="matrix(-3.33105,-4.18329,0.0966429,-0.16739,-108.023,371.208)">
@@ -514,8 +547,8 @@
                         </g>
                     </g>
                 </g>
-                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                    <use xlink:href="#_Image28" x="2104.7" y="1092.22" width="51px" height="40px"/>
+                <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                    <use xlink:href="#_Image28" x="2110.21" y="1088.59" width="51px" height="40px"/>
                 </g>
                 <g transform="matrix(-0.0826935,-0.143229,0.096225,-0.166667,0.0350539,500.061)">
                     <rect x="-86.208" y="1832.89" width="31.423" height="37.104" style="fill:rgb(179,60,60);"/>
@@ -534,8 +567,8 @@
                         <g transform="matrix(0.0833333,-0.144338,0.19245,2.1036e-17,1.61318,560.431)">
                             <path d="M2410.06,-53.344C2410.06,-54.196 2409.37,-54.887 2408.52,-54.887L2403.53,-54.887C2402.68,-54.887 2401.99,-54.196 2401.99,-53.344L2401.99,-51.237C2401.99,-50.386 2402.68,-49.695 2403.53,-49.695L2408.52,-49.695C2409.37,-49.695 2410.06,-50.386 2410.06,-51.237L2410.06,-53.344Z" style="fill:rgb(79,28,28);"/>
                         </g>
-                        <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                            <use xlink:href="#_Image29" x="2079.21" y="1138.03" width="7px" height="6px"/>
+                        <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                            <use xlink:href="#_Image29" x="2084.72" y="1134.4" width="7px" height="6px"/>
                         </g>
                     </g>
                     <g id="koplamp-links1" serif:id="koplamp links" transform="matrix(1,0,0,1,2.47446,-4.28588)">
@@ -551,23 +584,23 @@
                         <g transform="matrix(0.0833333,-0.144338,0.19245,2.1036e-17,1.61318,560.431)">
                             <path d="M2410.06,-53.344C2410.06,-54.196 2409.37,-54.887 2408.52,-54.887L2403.53,-54.887C2402.68,-54.887 2401.99,-54.196 2401.99,-53.344L2401.99,-51.237C2401.99,-50.386 2402.68,-49.695 2403.53,-49.695L2408.52,-49.695C2409.37,-49.695 2410.06,-50.386 2410.06,-51.237L2410.06,-53.344Z" style="fill:rgb(79,28,28);"/>
                         </g>
-                        <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,-0.647367,564.654)">
-                            <use xlink:href="#_Image30" x="2105.16" y="1153.61" width="7px" height="6px"/>
+                        <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,-0.0426564,565.573)">
+                            <use xlink:href="#_Image30" x="2110.68" y="1149.98" width="7px" height="6px"/>
                         </g>
                     </g>
                 </g>
                 <g id="Knipperlicht">
-                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                        <use xlink:href="#_Image31" x="2115" y="1153.87" width="5px" height="6px"/>
+                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                        <use xlink:href="#_Image31" x="2120.52" y="1150.24" width="5px" height="6px"/>
                     </g>
-                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                        <use xlink:href="#_Image32" x="2208.55" y="1099.79" width="5px" height="6px"/>
+                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                        <use xlink:href="#_Image32" x="2214.07" y="1096.16" width="5px" height="6px"/>
                     </g>
-                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                        <use xlink:href="#_Image33" x="2113.34" y="1155.73" width="2px" height="4px"/>
+                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                        <use xlink:href="#_Image33" x="2118.85" y="1152.1" width="2px" height="4px"/>
                     </g>
-                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,1.82709,560.368)">
-                        <use xlink:href="#_Image34" x="2077.9" y="1135.27" width="2px" height="4px"/>
+                    <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,2.4318,561.288)">
+                        <use xlink:href="#_Image34" x="2083.41" y="1131.64" width="2px" height="4px"/>
                     </g>
                 </g>
             </g>

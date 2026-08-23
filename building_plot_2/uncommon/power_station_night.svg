@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(3.67394e-16,6,-6,3.67394e-16,3000,0)">
+        <rect x="0" y="0" width="500" height="500" style="fill:none;"/>
+        <g>
+            <g id="Building-1" serif:id="Building 1">
+                <g id="Building1" transform="matrix(3.62802e-16,-1.08999,1.08999,6.67428e-17,-62.6644,504.025)">
+                    <g transform="matrix(-1.35808e-16,0.917438,-0.917438,2.49191e-16,477.485,60.0769)">
+                        <g id="lamp-fan2">
+                            <g transform="matrix(-0.00728116,-0.0126113,0.0648328,-0.112294,140.7,508.421)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00482084,-0.00834994,0.0648328,-0.112294,143.639,513.511)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00482084,-0.00834994,0.0648328,-0.112294,143.994,514.127)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00482084,-0.00834994,0.0648328,-0.112294,144.352,514.747)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00482084,-0.00834994,0.0648328,-0.112294,144.71,515.367)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00766352,-0.0132736,0.0648328,-0.112294,142.165,510.959)">
+                                <path d="M-1020,2113.1L-1050,2113.1L-1050,2141.09L-1033.01,2139.08L-1020,2139.08L-1020,2113.1Z" style="fill:rgb(162,188,24);"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(-1.35808e-16,0.917438,-0.917438,3.17095e-16,470.864,63.8995)">
+                        <g id="lamp-fan1">
+                            <g transform="matrix(-0.00728116,-0.0126113,0.078032,-0.135155,112.808,556.73)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00462462,-0.00801008,0.078032,-0.135155,115.948,562.167)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00462462,-0.00801008,0.078032,-0.135155,116.305,562.787)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00482084,-0.00834994,0.078032,-0.135155,116.459,563.053)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00482084,-0.00834994,0.078032,-0.135155,116.815,563.669)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                            <g transform="matrix(-0.00775549,-0.0134329,0.078032,-0.135155,114.177,559.1)">
+                                <rect x="-1050" y="2113.1" width="30" height="25.981" style="fill:rgb(162,188,24);"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g transform="matrix(0.0855235,-0.148131,0.148637,-6.69568e-17,-230.301,584.741)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(185,214,13);"/>
+                    </g>
+                    <g transform="matrix(0.0249411,-0.0431992,0.148637,-6.78087e-17,-101.501,361.653)">
+                        <path d="M2110,2458.77L2107.75,2459.51L2090,2459.51L2090,2528.79L2095.57,2528.79L2101.38,2526.85L2110,2526.83L2110,2458.77Z" style="fill:rgb(185,214,13);"/>
+                    </g>
+                    <g transform="matrix(0.0884881,-0.153266,0.148637,-6.68215e-17,-238.738,599.355)">
+                        <path d="M2110,2459.51L2090,2459.51L2090,2528.79L2098.36,2528.79L2099.99,2526.85L2102.62,2526.85L2102.62,2528.79L2110,2528.79L2110,2459.51Z" style="fill:rgb(185,214,13);"/>
+                    </g>
+                    <g transform="matrix(0.0224458,-0.0388772,0.148637,-6.88169e-17,-101.621,361.86)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(185,214,13);"/>
+                    </g>
+                    <g transform="matrix(-0.0833333,-0.144338,0.19512,2.69581e-18,13.4329,502.887)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(141,165,8);"/>
+                    </g>
+                    <g transform="matrix(-0.0833333,-0.144338,0.19475,2.67311e-18,18.511,510.104)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(141,165,8);"/>
+                    </g>
+                    <g transform="matrix(-0.0833333,-0.144338,0.194851,2.67935e-18,22.4274,517.321)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(141,165,8);"/>
+                    </g>
+                    <g transform="matrix(-0.0833333,-0.144338,0.195291,2.70625e-18,25.5135,524.537)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(141,165,8);"/>
+                    </g>
+                    <g transform="matrix(0.0833333,-0.144338,0.209252,1.3272e-17,-358.825,541.858)">
+                        <path d="M2110,2459.51L2090,2459.51L2090,2528.79L2105.16,2528.79L2106.87,2527.42L2109.66,2527.42L2109.66,2528.79L2110,2528.79L2110,2459.51Z" style="fill:rgb(185,214,13);"/>
+                    </g>
+                    <g transform="matrix(0.0833333,-0.144338,0.209252,1.3272e-17,-362.991,549.075)">
+                        <path d="M2110,2459.51L2090,2459.51L2090,2528.79L2109.27,2528.79L2110,2528.19L2110,2459.51Z" style="fill:rgb(185,214,13);"/>
+                    </g>
+                    <g transform="matrix(0.0833333,-0.144338,0.209252,1.3272e-17,-367.158,556.292)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(185,214,13);"/>
+                    </g>
+                    <g transform="matrix(0.0833333,-0.144338,0.209252,1.3272e-17,-371.325,563.509)">
+                        <rect x="2090" y="2459.51" width="20" height="69.282" style="fill:rgb(185,214,13);"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,6.16298e-32,-6.16298e-32,1,196.694,-161.705)">
+                    <g id="lamp-dak2" transform="matrix(1,6.16298e-32,-6.16298e-32,1,0.786537,0.658016)">
+                        <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,-197.481,661.047)">
+                            <use xlink:href="#_Image1" x="1781.55" y="1739.5" width="5px" height="6px"/>
+                        </g>
+                    </g>
+                    <g id="lamp-dak1" transform="matrix(1,4.93038e-32,-4.93038e-32,1,0.383959,-0.0645828)">
+                        <g transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,-197.078,661.77)">
+                            <use xlink:href="#_Image1" x="1781.55" y="1734.58" width="5px" height="6px"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="5px" height="6px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAGCAYAAAAL+1RLAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAfElEQVQImS3BUQoBURSA4f+cm0tqJJkrauZt8qhkFbIPuc27DViEFyuwBttRlGJSbubhePF9AnCwSZEzXRRUl7WcP7K3Xhgyus1ZkjO7d+mXmvhuXjxpSSgaGh4niUamSBMYU1LRkt4CsDOOHt0OyHC4q/BXm0SPW3k68Qf6rh2tPBykEAAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>
